@@ -2,7 +2,8 @@
 let cats = [
     {name: "Tabby", likes: "catnip"},
     {name: "Bob Ross", likes: "paint"},
-    {name: "Chaos", likes: "knocking over plants"}];
+    {name: "Chaos", likes: "knocking over plants"},
+    {name: "Patches", likes: "cuddling"}];
 
 for (let i = 0 ; i < cats.length ; i++)
 {
